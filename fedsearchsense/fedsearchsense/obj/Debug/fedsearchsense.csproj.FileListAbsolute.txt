@@ -1,0 +1,15 @@
+C:\Users\simon\source\repos\fedsearchsense\fedsearchsense\bin\Debug\fedsearchsense.exe.config
+C:\Users\simon\source\repos\fedsearchsense\fedsearchsense\bin\Debug\fedsearchsense.exe
+C:\Users\simon\source\repos\fedsearchsense\fedsearchsense\bin\Debug\fedsearchsense.pdb
+C:\Users\simon\source\repos\fedsearchsense\fedsearchsense\obj\Debug\fedsearchsense.csprojAssemblyReference.cache
+C:\Users\simon\source\repos\fedsearchsense\fedsearchsense\obj\Debug\fedsearchsense.Properties.Resources.resources
+C:\Users\simon\source\repos\fedsearchsense\fedsearchsense\obj\Debug\fedsearchsense.skeetButton.resources
+C:\Users\simon\source\repos\fedsearchsense\fedsearchsense\obj\Debug\fedsearchsense.skeetCheckbox.resources
+C:\Users\simon\source\repos\fedsearchsense\fedsearchsense\obj\Debug\fedsearchsense.skeetGroupBox.resources
+C:\Users\simon\source\repos\fedsearchsense\fedsearchsense\obj\Debug\fedsearchsense.skeetSlider.resources
+C:\Users\simon\source\repos\fedsearchsense\fedsearchsense\obj\Debug\fedsearchsense.csproj.GenerateResource.cache
+C:\Users\simon\source\repos\fedsearchsense\fedsearchsense\obj\Debug\fedsearchsense.csproj.CoreCompileInputs.cache
+C:\Users\simon\source\repos\fedsearchsense\fedsearchsense\obj\Debug\fedsearchsense.exe
+C:\Users\simon\source\repos\fedsearchsense\fedsearchsense\obj\Debug\fedsearchsense.pdb
+C:\Users\simon\source\repos\fedsearchsense\fedsearchsense\obj\Debug\fedsearchsense.Form1.resources
+C:\Users\simon\source\repos\fedsearchsense\fedsearchsense\obj\Debug\SkeetFramework.SkeetTextBox.resources
